@@ -58,7 +58,7 @@ app.controller("CalculatorController", function ($scope,$http) {
     var call = function(a,b,op) {
         return $http({
             method: 'GET',
-            url: 'http://'+location.host+':'+location.port+'/'+op+'?num1='+a+'&num2='+b
+            url: 'http://'+location.host+'/'+op+'?num1='+a+'&num2='+b
         }).success(function(data){
             console.log("success "+data);
             return data;
