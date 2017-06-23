@@ -4,7 +4,7 @@ calculator example project
 An example application using AngularJS as frontend and Java Spark as REST API.
 
 
-[![Build Status](https://drone.io/bitbucket.org/cd-k/java-calculator/status.png)](https://drone.io/bitbucket.org/cd-k/java-calculator/latest)
+[![Build Status](https://travis-ci.org/mcolombosperoni/calculator.svg)](https://travis-ci.org/mcolombosperoni/calculator.svg)
 
 ##Contribution
 

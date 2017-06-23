@@ -17,15 +17,15 @@
   </prerequisites>
 
   <scm>
-    <connection></connection>
-    <developerConnection></developerConnection>
-    <url></url>
+    <connection>scm:git:https://github.com/mcolombosperoni/calculator.git</connection>
+    <developerConnection>scm:git:https://github.com/mcolombosperoni/calculator.git</developerConnection>
+    <url>https://github.com/mcolombosperoni/calculator.git</url>
     <tag>master</tag>
   </scm>
 
   <ciManagement>
-    <system></system>
-    <url></url>
+    <system>Travis CI</system>
+    <url>https://travis-ci.org/mcolombosperoni/calculator.svg</url>
   </ciManagement>
 
 
